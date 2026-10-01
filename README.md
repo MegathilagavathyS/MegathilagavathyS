@@ -5,7 +5,7 @@
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MegathilagavathyS)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/Megathilagavathy)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/Megathilagavathy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/megathilagavathy-s-0260242b7/)
 
