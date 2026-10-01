@@ -21,14 +21,3 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square\&logo=apachemaven\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square\&logo=androidstudio\&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
-
-#### 🚀 Projects
-
-- **NovaRetail** — Java, Spring Boot, REST API, MySQL, Maven  
-  [Repository](https://github.com/MegathilagavathyS/novaretail)
-
-- **Tracta** — Kotlin Jetpack Compose, Android, Material 3
-  [Repository](https://github.com/MegathilagavathyS/tracta)
-
-- **FeelVision** - Python, Flask, NumPy, Tensorflow
-  [Repository](https://github.com/MegathilagavathyS/FeelVision)
